@@ -1,18 +1,19 @@
 # SereniTune
 
-*Smart HVAC Control at Your Fingertips*
+*Your Journey to Inner Peace*
 
-SereniTune is an Android application for managing and monitoring air conditioning devices, designed to simplify the control and maintenance of HVAC systems directly from your smartphone.
+SereniTune is an Android application designed to guide you on your mindfulness journey, offering a comprehensive suite of meditation, breathing exercises, and mindfulness practices to help you find balance and tranquility in your daily life.
 
 ## Features
 
-- Complete air conditioning device management
-- Real-time monitoring
-- Intuitive and modern user interface
-- Notification system for maintenance and alerts
-- Detailed reporting
-- Offline support
-- Cloud synchronization
+- Guided meditation sessions for all experience levels
+- Breathing exercises with visual and audio guidance
+- Daily mindfulness reminders and notifications
+- Progress tracking and statistics
+- Customizable meditation timers
+- Ambient sound library for focus and relaxation
+- Offline access to core features
+- Cloud sync for your meditation history
 
 ## System Requirements
 
