@@ -31,7 +31,7 @@ This project is currently in its early stages. Features and functionality will b
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/SereniTune.git
+git clone https://github.com/giovannicarlino04/SereniTune.git
 ```
 
 2. Open the project in Android Studio:
