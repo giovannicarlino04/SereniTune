@@ -1,47 +1,47 @@
 # SereniTune
 
-SereniTune è un'applicazione Android per la gestione e il monitoraggio dei dispositivi di climatizzazione, progettata per semplificare il controllo e la manutenzione dei sistemi HVAC direttamente dal tuo smartphone.
+SereniTune is an Android application for managing and monitoring air conditioning devices, designed to simplify the control and maintenance of HVAC systems directly from your smartphone.
 
-## Caratteristiche
+## Features
 
-- Gestione completa dei dispositivi di climatizzazione
-- Monitoraggio in tempo reale
-- Interfaccia utente intuitiva e moderna
-- Sistema di notifiche per manutenzioni e allarmi
-- Reportistica dettagliata
-- Supporto offline
-- Sincronizzazione cloud
+- Complete air conditioning device management
+- Real-time monitoring
+- Intuitive and modern user interface
+- Notification system for maintenance and alerts
+- Detailed reporting
+- Offline support
+- Cloud synchronization
 
-## Requisiti di Sistema
+## System Requirements
 
-- Android 6.0 (API level 23) o superiore
-- Android Studio 4.0 o superiore
-- Gradle 6.7 o superiore
-- JDK 11 o superiore
+- Android 6.0 (API level 23) or higher
+- Android Studio 4.0 or higher
+- Gradle 6.7 or higher
+- JDK 11 or higher
 
-## Installazione
+## Installation
 
-1. Clona il repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/SereniTune.git
 ```
 
-2. Apri il progetto in Android Studio:
-   - Avvia Android Studio
-   - Seleziona "Open an existing Android Studio project"
-   - Naviga fino alla cartella del progetto e selezionala
+2. Open the project in Android Studio:
+   - Launch Android Studio
+   - Select "Open an existing Android Studio project"
+   - Navigate to the project folder and select it
 
-3. Sincronizza il progetto con Gradle:
-   - Clicca su "Sync Project with Gradle Files"
-   - Attendi il completamento della sincronizzazione
+3. Sync the project with Gradle:
+   - Click on "Sync Project with Gradle Files"
+   - Wait for the synchronization to complete
 
-## Configurazione
+## Configuration
 
-1. Assicurati di avere configurato correttamente il tuo ambiente di sviluppo Android
-2. Configura le variabili d'ambiente necessarie nel file `local.properties`
-3. Se necessario, configura le chiavi API nel file `gradle.properties`
+1. Make sure you have properly configured your Android development environment
+2. Configure the necessary environment variables in the `local.properties` file
+3. If needed, configure API keys in the `gradle.properties` file
 
-## Struttura del Progetto
+## Project Structure
 
 ```
 SereniTune/
@@ -62,20 +62,20 @@ SereniTune/
 └── settings.gradle
 ```
 
-## Sviluppo
+## Development
 
-Per eseguire l'applicazione:
-1. Seleziona un dispositivo o un emulatore
-2. Clicca su "Run" (pulsante play verde) o premi Shift+F10
+To run the application:
+1. Select a device or emulator
+2. Click on "Run" (green play button) or press Shift+F10
 
-## Contribuire
+## Contributing
 
-Le pull request sono benvenute. Per modifiche importanti, apri prima un issue per discutere cosa vorresti cambiare.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Licenza
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Contatti
+## Contact
 
-Per domande o supporto, contatta il team di sviluppo all'indirizzo: support@serenitune.com 
+For questions or support, contact the development team at: support@serenitune.com 
