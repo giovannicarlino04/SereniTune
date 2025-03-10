@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SereniTune</string>
+    <string name="app_subtitle">Your peaceful companion</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_journal">Journal</string>
+    <string name="menu_breathing">Breathing</string>
+    <string name="menu_panic">Panic Relief</string>
+    <string name="menu_quotes">Daily Quotes</string>
+    
+    <!-- Journal Screen -->
+    <string name="journal_title">Journal Entry</string>
+    <string name="journal_mood">How are you feeling?</string>
+    <string name="journal_thoughts">Write your thoughts...</string>
+    <string name="journal_save">Save</string>
+    <string name="journal_saved">Entry saved!</string>
+    <string name="journal_back">Back</string>
+    
+    <!-- Breathing Screen -->
+    <string name="breathing_title">Breathing Exercise</string>
+    <string name="breathing_cycle">Cycle %d</string>
+    <string name="breathing_phase_in">Breathe In</string>
+    <string name="breathing_phase_hold">Hold</string>
+    <string name="breathing_phase_out">Breathe Out</string>
+    <string name="breathing_play">Play</string>
+    <string name="breathing_pause">Pause</string>
+    <string name="breathing_back">Back to Menu</string>
+    
+    <!-- Panic Screen -->
+    <string name="panic_title">Panic Relief</string>
+    <string name="panic_safe">You\'re Safe</string>
+    <string name="panic_message">Remember: This feeling will pass. You are strong and capable.</string>
+    <string name="panic_time">Time: %d:%02d</string>
+    <string name="panic_emergency">Emergency Contacts</string>
+    <string name="panic_services">Emergency Services</string>
+    <string name="panic_helpline">Crisis Helpline</string>
+    <string name="panic_call">Call</string>
+    <string name="panic_back">Back</string>
+    
+    <!-- Quotes Screen -->
+    <string name="quotes_title">Daily Inspiration</string>
+    <string name="quotes_share">Share quote</string>
+    <string name="quotes_next">Next Quote</string>
+    <string name="quotes_previous">Previous quote</string>
+    <string name="quotes_favorite">Add to favorites</string>
+    <string name="quotes_unfavorite">Remove from favorites</string>
+    <string name="quotes_back">Back</string>
+    
+    <!-- Language Settings -->
+    <string name="language_settings">Language Settings</string>
+    <string name="select_language">Select Language</string>
+    <string name="english">English</string>
+    <string name="italian">Italian</string>
+    <string name="ok">OK</string>
+    
+    <!-- Minigames -->
+    <string name="menu_minigames">Relaxing Games</string>
+    <string name="minigames_title">Relaxing Games</string>
+    <string name="minigames_back">Back</string>
+    <string name="minigame_1">Color Match</string>
+    <string name="minigame_2">Pattern Flow</string>
+    <string name="minigame_3">Sound Garden</string>
+    <string name="minigame_1_desc">Match colors to create peaceful patterns</string>
+    <string name="minigame_2_desc">Follow the flowing patterns with your finger</string>
+    <string name="minigame_3_desc">Create a peaceful garden with gentle sounds</string>
+    
+    <!-- Color Match Game -->
+    <string name="color_match_title">Color Match</string>
+    <string name="color_match_score">Score: %d</string>
+    <string name="color_match_reset">Reset</string>
+    <string name="color_match_complete">Pattern Complete!</string>
+    
+    <!-- Pattern Flow Game -->
+    <string name="pattern_flow_title">Pattern Flow</string>
+    <string name="pattern_flow_start">Start Flow</string>
+    <string name="pattern_flow_stop">Stop Flow</string>
+    <string name="pattern_flow_success">Perfect Flow!</string>
+    
+    <!-- Sound Garden Game -->
+    <string name="sound_garden_title">Sound Garden</string>
+    <string name="sound_garden_add">Add Sound</string>
+    <string name="sound_garden_clear">Clear Garden</string>
+    <string name="sound_garden_peaceful">Peaceful Garden Created</string>
+    
+    <!-- Quotes -->
+    <string name="quote_1">The only way out is through.</string>
+    <string name="quote_2">Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure.</string>
+    <string name="quote_3">Every moment is a fresh beginning.</string>
+    <string name="quote_4">Calmness is the cradle of power.</string>
+    <string name="quote_5">Your mind is a garden. Your thoughts are the seeds. You can grow flowers, or you can grow weeds.</string>
+    <string name="quote_6">Inhale positivity, exhale negativity.</string>
+    <string name="quote_7">Peace begins with a smile.</string>
+    <string name="quote_8">One small positive thought can change your whole day.</string>
+    <string name="quote_9">Keep your face always toward the sunshine.</string>
+    <string name="quote_10">Believe you can and you\'re halfway there.</string>
+    <string name="quote_11">Happiness is an inside job.</string>
+    <string name="quote_12">Turn your wounds into wisdom.</string>
+</resources>

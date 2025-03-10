@@ -2,18 +2,23 @@
 
 *Your Journey to Inner Peace*
 
-SereniTune is an Android application designed to guide you on your mindfulness journey, offering a comprehensive suite of meditation, breathing exercises, and mindfulness practices to help you find balance and tranquility in your daily life.
+SereniTune is an Android application designed to guide you on your mindfulness journey, offering a clean and intuitive interface for meditation and breathing exercises.
+
+## Project Status
+
+🚧 Under Development
+
+This project is currently in its early stages. Features and functionality will be added as development progresses.
 
 ## Features
 
-- Guided meditation sessions for all experience levels
-- Breathing exercises with visual and audio guidance
-- Daily mindfulness reminders and notifications
-- Progress tracking and statistics
-- Customizable meditation timers
-- Ambient sound library for focus and relaxation
-- Offline access to core features
-- Cloud sync for your meditation history
+- Meditation timer with customizable duration
+- Breathing exercises with visual guidance
+- Ambient sound library for focus
+- Meditation statistics tracking
+- Customizable settings for your practice
+- Haptic feedback for better immersion
+- Material Design 3 UI
 
 ## System Requirements
 
@@ -52,11 +57,9 @@ SereniTune/
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/
-│   │   │   │   └── com/serenitune/
-│   │   │   │       ├── activities/
-│   │   │   │       ├── adapters/
-│   │   │   │       ├── models/
-│   │   │   │       └── utils/
+│   │   │   │   └── com/giovannicarlino/serenitune/
+│   │   │   │       ├── ui/
+│   │   │   │       └── MainActivity.kt
 │   │   │   └── res/
 │   │   └── test/
 │   └── build.gradle

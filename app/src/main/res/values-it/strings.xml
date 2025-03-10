@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SereniTune</string>
+    <string name="app_subtitle">Il tuo compagno di pace</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_journal">Diario</string>
+    <string name="menu_breathing">Respirazione</string>
+    <string name="menu_panic">Gestione Panico</string>
+    <string name="menu_quotes">Citazioni Giornaliere</string>
+    
+    <!-- Journal Screen -->
+    <string name="journal_title">Voce del Diario</string>
+    <string name="journal_mood">Come ti senti?</string>
+    <string name="journal_thoughts">Scrivi i tuoi pensieri...</string>
+    <string name="journal_save">Salva</string>
+    <string name="journal_saved">Voce salvata!</string>
+    <string name="journal_back">Indietro</string>
+    
+    <!-- Breathing Screen -->
+    <string name="breathing_title">Esercizio di Respirazione</string>
+    <string name="breathing_cycle">Ciclo %d</string>
+    <string name="breathing_phase_in">Inspira</string>
+    <string name="breathing_phase_hold">Trattieni</string>
+    <string name="breathing_phase_out">Espira</string>
+    <string name="breathing_play">Play</string>
+    <string name="breathing_pause">Pausa</string>
+    <string name="breathing_back">Torna al Menu</string>
+    
+    <!-- Panic Screen -->
+    <string name="panic_title">Gestione Panico</string>
+    <string name="panic_safe">Sei al Sicuro</string>
+    <string name="panic_message">Ricorda: Questa sensazione passerà. Sei forte e capace.</string>
+    <string name="panic_time">Tempo: %d:%02d</string>
+    <string name="panic_emergency">Contatti di Emergenza</string>
+    <string name="panic_services">Servizi di Emergenza</string>
+    <string name="panic_helpline">Linea di Sostegno</string>
+    <string name="panic_call">Chiama</string>
+    <string name="panic_back">Indietro</string>
+    
+    <!-- Quotes Screen -->
+    <string name="quotes_title">Ispirazione Giornaliera</string>
+    <string name="quotes_share">Condividi citazione</string>
+    <string name="quotes_next">Prossima Citazione</string>
+    <string name="quotes_previous">Citazione Precedente</string>
+    <string name="quotes_favorite">Aggiungi ai preferiti</string>
+    <string name="quotes_unfavorite">Rimuovi dai preferiti</string>
+    <string name="quotes_back">Indietro</string>
+    
+    <!-- Language Settings -->
+    <string name="language_settings">Impostazioni Lingua</string>
+    <string name="select_language">Seleziona Lingua</string>
+    <string name="english">Inglese</string>
+    <string name="italian">Italiano</string>
+    <string name="ok">OK</string>
+    
+    <!-- Minigames -->
+    <string name="menu_minigames">Giochi Rilassanti</string>
+    <string name="minigames_title">Giochi Rilassanti</string>
+    <string name="minigames_back">Indietro</string>
+    <string name="minigame_1">Abinamento Colori</string>
+    <string name="minigame_2">Flusso di Pattern</string>
+    <string name="minigame_3">Giardino Sonoro</string>
+    <string name="minigame_1_desc">Abbina i colori per creare pattern pacifici</string>
+    <string name="minigame_2_desc">Segui i pattern fluidi con il dito</string>
+    <string name="minigame_3_desc">Crea un giardino pacifico con suoni gentili</string>
+    
+    <!-- Color Match Game -->
+    <string name="color_match_title">Abinamento Colori</string>
+    <string name="color_match_score">Punteggio: %d</string>
+    <string name="color_match_reset">Reimposta</string>
+    <string name="color_match_complete">Pattern Completato!</string>
+    
+    <!-- Pattern Flow Game -->
+    <string name="pattern_flow_title">Flusso di Pattern</string>
+    <string name="pattern_flow_start">Inizia Flusso</string>
+    <string name="pattern_flow_stop">Ferma Flusso</string>
+    <string name="pattern_flow_success">Flusso Perfetto!</string>
+    
+    <!-- Sound Garden Game -->
+    <string name="sound_garden_title">Giardino Sonoro</string>
+    <string name="sound_garden_add">Aggiungi Suono</string>
+    <string name="sound_garden_clear">Pulisci Giardino</string>
+    <string name="sound_garden_peaceful">Giardino Pacifico Creato</string>
+    
+    <!-- Quotes -->
+    <string name="quote_1">L\'unica via d\'uscita è attraversare.</string>
+    <string name="quote_2">Respira. Lascia andare. E ricorda a te stesso che questo momento è l\'unico di cui sei sicuro di avere.</string>
+    <string name="quote_3">Ogni momento è un nuovo inizio.</string>
+    <string name="quote_4">La calma è la culla del potere.</string>
+    <string name="quote_5">La tua mente è un giardino. I tuoi pensieri sono i semi. Puoi far crescere fiori o erbacce.</string>
+    <string name="quote_6">Inspira positività, espira negatività.</string>
+    <string name="quote_7">La pace inizia con un sorriso.</string>
+    <string name="quote_8">Un piccolo pensiero positivo può cambiare tutta la tua giornata.</string>
+    <string name="quote_9">Mantieni sempre il viso rivolto verso il sole.</string>
+    <string name="quote_10">Credi di poterlo fare e sei già a metà strada.</string>
+    <string name="quote_11">La felicità è un lavoro interiore.</string>
+    <string name="quote_12">Trasforma le tue ferite in saggezza.</string>
+</resources> 
